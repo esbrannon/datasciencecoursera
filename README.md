@@ -1,17 +1,17 @@
 ## This is a markdown file
 
 ###This is an example of a list
-*I
-*am
-*learning
-*markdown
+* I
+* am
+* learning
+* markdown
 
 ###Ordered list
 1. Number One
-..*Unordered sub item
+..* Unordered sub item
 1. Number Two
-..1.Ordered sub item
-..2.Ordered sub item 2
+..1. Ordered sub item
+..2. Ordered sub item 2
 
 ..Indented paragraph.
 
