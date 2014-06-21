@@ -8,21 +8,21 @@
 
 ###Ordered list
 1. Number One
-..* Unordered sub item
+.. * Unordered sub item
 1. Number Two
-..1. Ordered sub item
+.. 1. Ordered sub item
 ..2. Ordered sub item 2
 
-..Indented paragraph.
+.. Indented paragraph.
 
 ###Links
 [I'm inline](www.google.com "Google Hompage")
 
 ###Code
-'''javascript
+```javascript
 var s = "Javascript syntax highlighting";
 alert(s);
-'''
+```
 
 ###Tables
 
